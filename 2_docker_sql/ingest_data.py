@@ -45,7 +45,7 @@ def main(params):
 
         t_end = time()
 
-        print('inserted another chink..., took %.3f seconds' % (t_end - t_start)) 
+        print('inserted another chunk..., took %.3f seconds' % (t_end - t_start)) 
 
 if __name__ == '__main__': 
     # this is the proper way to run scripts in python
