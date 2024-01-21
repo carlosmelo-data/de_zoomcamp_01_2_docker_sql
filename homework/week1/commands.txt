@@ -1,0 +1,12 @@
+--------------------
+Homework
+
+# Question 2
+# Containerize the image
+docker build -t python39:v2 .
+
+docker exec -it python39:v2
+
+--------------------
+Prepare for Q3
+
